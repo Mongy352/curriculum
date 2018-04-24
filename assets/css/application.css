@@ -7,4 +7,10 @@ h1.title .feather {
   margin-top: -0.15em;
   opacity: 0.8; }
 
+h3.subtitle .feather {
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+  margin: -0.225em 0.25em 0 0; }
+
 /*# sourceMappingURL=application.css.map */
