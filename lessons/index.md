@@ -1,3 +1,8 @@
+---
+layout: subpage
+title: 'All Lessons'
+---
+
 # All Lessons
 
 [Agile](https://mongy352.github.io/curriculum/lessons/agile)<br />
