@@ -1,7 +1,6 @@
-
-![alt text](http://wdan.uk/images/wdan-logo.png "WDAN logo")
-
-
+---
+layout: default
+---
 
 ## Q1
  - [Flat File Generators!](http://mongy352.github.io/curriculum/lessons/flat-file-generators)
