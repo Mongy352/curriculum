@@ -16,6 +16,9 @@ layout: homepage
  
 ## Q3
   - [AnotherFile]({{ site.url }}{{ site.baseurl }}/lessons/docker)
+  - [#]({{ site.url }}{{ site.baseurl }}/lessons/prototyping)
+  - [#]({{ site.url }}{{ site.baseurl }}/lessons/code-standards)
+  - [#]({{ site.url }}{{ site.baseurl }}/lessons/accessibility)
 
 ## Q4
  - [Performance](({{ site.url }}{{ site.baseurl }}/#)
