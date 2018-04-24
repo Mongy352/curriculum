@@ -3,10 +3,10 @@ layout: default
 ---
 
 ## Q1
- - [Flat File Generators!](http://mongy352.github.io/curriculum/lessons/flat-file-generators)
+ - [Flat File Generators!]({{ site.url }}{{ site.baseurl }}/lessons/flat-file-generators)
 
 ## Q2 
- - [AnotherFile](http://mongy352.github.io/curriculum/lessons/agile)
+ - [AnotherFile]({{ site.url }}{{ site.baseurl }}/lessons/agile)
  
 ## Q3
-  - [AnotherFile](http://mongy352.github.io/curriculum/lessons/docker)
+  - [AnotherFile]({{ site.url }}{{ site.baseurl }}/lessons/docker)
