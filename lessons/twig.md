@@ -1,4 +1,7 @@
-# Twig
+---
+layout: lesson
+title: 'Twig'
+---
 
 ## Description
 

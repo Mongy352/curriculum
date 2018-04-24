@@ -1,4 +1,7 @@
-# Agile Theory and Practice
+---
+layout: lesson
+title: 'Agile Theory and Practice'
+---
 
 ## Description
 

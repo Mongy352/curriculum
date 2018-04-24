@@ -1,4 +1,8 @@
-# Lesson Plan Template
+---
+layout: lesson
+title: 'Lesson Plan Template'
+---
+
 Last reviewed **04 April 2018** by **Crispin Read**
 
 ## Description

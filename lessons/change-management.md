@@ -1,4 +1,8 @@
-# Change Management 
+---
+layout: lesson
+title: 'Change Management'
+---
+
 Last reviewed **06 April 2018** by **Crispin Read**
 
 ## Description

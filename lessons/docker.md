@@ -1,4 +1,7 @@
-# Docker
+---
+layout: lesson
+title: 'Docker'
+---
 
 ## Description
 
