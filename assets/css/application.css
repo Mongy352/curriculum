@@ -1,4 +1,10 @@
 .navbar img {
   margin-right: 0.5em; }
 
+h1.title .feather {
+  margin-right: 0.25em;
+  vertical-align: middle;
+  margin-top: -0.15em;
+  opacity: 0.8; }
+
 /*# sourceMappingURL=application.css.map */
