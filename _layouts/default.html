@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" class="has-navbar-fixed-top">
+    <head>
+        <!-- SEO & Meta -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+
+        <!-- Head stylesheets -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css"/>
+        <link rel="stylesheet" href="{{ "/assets/css/application.css" | prepend: site.baseurl }}" />
+    </head>
+    <body>
+        <div class="container">
+            <header>
+
+                <!-- Site navigation -->
+                <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+                    <div class="container">
+                        <!-- Site logo -->
+                        <div class="navbar-brand">
+                            <a class="navbar-item" href="{{ site.baseurl }}/">
+                                <img src="{{ "/assets/images/logo.png" | prepend: site.baseurl }}" alt="WDAN logo" height="28">
+                                <span>{{ site.name }}</span>
+                            </a>
+                        </div>
+                        <!-- Other menu links -->
+                        <div class="navbar-menu">
+                            <div class="navbar-end">
+                                <a class="navbar-item" href="#">Lessons</a>
+                                <a class="navbar-item" href="#">Tutorials</a>
+                                <a class="navbar-item" href="#">Tasks</a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+        </div>
+
+        {{ content }}
+
+        <!-- Footer scripts -->
+        <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+    </body>
+</html>
