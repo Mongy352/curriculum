@@ -1,3 +1,13 @@
 .hero {
     margin-bottom: 1em;
+
+    &.is-wdan {
+        background-color: $color-wdan;
+        color: #fff;
+
+        .title,
+        .subtitle {
+            color: #FFF;
+        }
+    }
 }

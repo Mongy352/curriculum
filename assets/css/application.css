@@ -15,5 +15,11 @@ h3.subtitle .feather {
 
 .hero {
   margin-bottom: 1em; }
+  .hero.is-wdan {
+    background-color: #03637f;
+    color: #fff; }
+    .hero.is-wdan .title,
+    .hero.is-wdan .subtitle {
+      color: #FFF; }
 
 /*# sourceMappingURL=application.css.map */
