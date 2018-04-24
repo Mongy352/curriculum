@@ -4,7 +4,7 @@ layout: homepage
 
 ## Q1
  - [Content Management and Information Architecture]({{ site.url }}{{ site.baseurl }}/)
- - [Change Management and Version Control]({{ site.url }}{{ site.baseurl }}/lessons/change-management.md)
+ - [Change Management and Version Control]({{ site.url }}{{ site.baseurl }}/lessons/change-management)
  - [CSS Preprocessing and Frontend build tools]({{ site.url }}{{ site.baseurl }}/#)
  - [Local Development and Deployment 1]({{ site.url }}{{ site.baseurl }}/#)
  - [Debugging]({{ site.url }}{{ site.baseurl }}/#)
